@@ -12,6 +12,9 @@ By analyzing Seattle Airbnb data, we are interested in the three questions:
 ## File Descriptions
 All analysis was implemented in Jupyter Notebook Seattle_airbnb.ipynb.
 
+## Libraries Used
+numpy, pandas, matplotlib, datetime, seaborn, sklearn
+
 ## How To Interact With Your Project
 All results and technical details can be found in the medium post here: https://medium.com/@fuweijia0528/analysis-of-seattle-airbnb-data-34ec1ceed5f7
 
